@@ -1,7 +1,7 @@
 GA4-BigQuery_schema-Python-SQL-Dashboard
 
 
-# GA4 Digital Analytics Command Center
+# GA4 Digital Analytics Funnel
 
 ## Overview
 
